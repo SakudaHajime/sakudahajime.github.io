@@ -8,6 +8,10 @@
 body {
     background-color: #4B7C99;
 }
+
+a{
+    cursor: pointer;
+}
  
 #bigbox {
     width: 1000px;
@@ -153,6 +157,10 @@ footer {
     background-color: #CCD0D9;
 }
 
+footer a{
+    text-decoration: none;
+    cursor: pointer;
+}
 footer a:hover{
     text-decoration: none;
     color: blanchedalmond;
