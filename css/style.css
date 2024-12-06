@@ -152,6 +152,11 @@ footer {
     text-align: center;
     background-color: #CCD0D9;
 }
+
+footer a:hover{
+    text-decoration: none;
+    color: blanchedalmond;
+}
  
 #main_right ul li {
     width: 660px;
